@@ -16,7 +16,7 @@
     "app.shelly-home.more.cells.label" : "Anzahl Zellen",
     "app.shelly-home.more.language.label" : "Sprache",
 	"app.shelly-home.more.report-error.label" : "Problem melden",
-    "app.shelly-home.more.report-error-body.label" : "Beschreibe kurz das Problem und wie du es aufgetreten ist:",
+    "app.shelly-home.more.report-error-body.label" : "Beschreibe kurz das Problem und wie es aufgetreten ist:",
     "app.shelly-home.more.report-error-prompt.label": "Bitte den Fehler-Log aus dem Dokumenten Ordner der E-Mail anfügen",
     "app.shelly-home.commons.cancel.label": "ABBRECHEN",
     "app.shelly-home.commons.confirm.label": "BESTÄTIGEN",

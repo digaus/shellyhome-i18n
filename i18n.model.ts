@@ -1,1 +1,6 @@
-export const i18n = ['en', 'de', 'nl', 'es'];
+export const i18n = [
+    'en',
+    'de',
+    'nl',
+    'es',
+];
