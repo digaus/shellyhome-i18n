@@ -3,7 +3,7 @@
     "app.shelly-home.more.language[de].label" : "Deutsch",
     "app.shelly-home.more.language[nl].label" : "Nederlands",
     "app.shelly-home.more.language[es].label" : "Español",
-    "app.shelly-home.more.language[es].label" : "Italiano",
+    "app.shelly-home.more.language[it].label" : "Italiano",
 
     "app.shelly-home.more.dark-theme.label": "Tema Scuro",
     "app.shelly-home.more.light-theme.label": "Tema Chiaro",
