@@ -5,6 +5,8 @@
     "app.shelly-home.more.language[nl].label" : "Nederlands",
     "app.shelly-home.more.language[es].label" : "Español",
 
+    "app.shelly-home.more.donate.label": "Donate",
+
     "app.shelly-home.more.dark-theme.label": "Donker contrast",
     "app.shelly-home.more.light-theme.label": "Helder contrast",
     "app.shelly-home.more.search-devices.label" : "Toevoegen Apparaat",

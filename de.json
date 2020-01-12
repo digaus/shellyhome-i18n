@@ -5,6 +5,8 @@
 	"app.shelly-home.more.language[nl].label" : "Nederlands",
     "app.shelly-home.more.language[es].label" : "Español",
 
+    "app.shelly-home.more.donate.label": "Spenden",
+
     "app.shelly-home.more.dark-theme.label": "Dunkles Theme",
     "app.shelly-home.more.light-theme.label": "Helles Theme",
     "app.shelly-home.more.search-devices.label" : "Geräte hinzufügen",
