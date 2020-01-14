@@ -1,5 +1,5 @@
-# Shelly Home i18n
-Translation files for the Shelly Home App. Feel free to make a PR.
+# Shelly Home
+Translation files for the Shelly Home App. If you want to add languages just make a PR.
 
 
 Feel free to support me if you like my work:
