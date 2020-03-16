@@ -3,4 +3,5 @@ export const i18n = [
     'de',
     'nl',
     'es',
+    'it',
 ];
