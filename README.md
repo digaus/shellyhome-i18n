@@ -2,11 +2,12 @@
 
 <b>Shelly Home</b> is a cross platform app created by the software developer <b>Dirk Gausmann</b>. It is developed in his free time and aims to bring a better user experience to <b>Shelly</b> users
 
-<b>Shelly Home</b> is available on <b>Android, iOS, MacOS</b> and <b>Windows</b>. You can add, manage, update and control your <b>Shelly</b> devices aswell as highly customize how and what information you want to see.<br/>The app also does work without a user account and can directly access the <b>Shelly</b> devices located in the same network. Optionally the user can connect to its <b>Shelly Cloud</b> account, to be able to control the devices from anywhere.
-
 Feel free to support me if you like my work:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W3BE6SJLD4W86&source=url)
+
+<b>Shelly Home</b> is available on <b>Android, iOS, MacOS</b> and <b>Windows</b>. You can add, manage, update and control your <b>Shelly</b> devices aswell as highly customize how and what information you want to see.<br/>The app also does work without a user account and can directly access the <b>Shelly</b> devices located in the same network. Optionally the user can connect to its <b>Shelly Cloud</b> account, to be able to control the devices from anywhere.
+
 
 
 
