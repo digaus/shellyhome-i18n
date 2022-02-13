@@ -1,6 +1,6 @@
 {
     "app.component.welcome.languages-missing.label": "Language not available? Help to integrate it!",
-    "app.component.welcome.welcome.label": "Welcome!",
+    "app.component.welcome.welcome.label": "Welkom!",
     "app.component.welcome.welcome-text.label": "<b>Shelly Home</b> is a practical and free application for <b>Shelly</b> smart home devices. Please select your language to continue.",
     "app.component.welcome.languages.label": "Languages",
     "app.component.welcome.creation.label": "Who created Shelly Home?",
