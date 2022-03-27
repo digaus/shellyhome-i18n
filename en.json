@@ -113,6 +113,7 @@
     "app.component.customize-graph.graph-type[consumption2].label": "Phase 2",
     "app.component.customize-graph.graph-type[consumption3].label": "Phase 3",
     "app.component.customize-graph.steps.label": "Steps",
+    "app.component.customize-graph.beginAtZero.label": "Zero line",
 
     "app.model.mode[relay].label": "Switch",
     "app.model.mode[roller].label": "Roller",
@@ -121,6 +122,7 @@
     "app.model.mode[white].label": "White",
     "app.model.mode[emeter].label": "E-Meter",
     "app.model.mode[inputs_reader].label": "Input",
+    "app.model.mode[thermostat].label": "Thermostat",
 
     "app.model.relay_usage[outlet].label": "Outlet",
     "app.model.relay_usage[light].label": "Light",  
