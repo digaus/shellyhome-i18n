@@ -1,5 +1,6 @@
 export const i18n: string[] = [
-    'en',
     'de',
+    'en',
     'fr',
+    'ned',
 ];
