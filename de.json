@@ -163,6 +163,7 @@
     "app.commons.languages[de].label": "Deutsch",
     "app.commons.languages[en].label": "English",
     "app.commons.languages[fr].label": "Français",
+    "app.commons.languages[nl].label": "Nederlands",
 
     "app.component.app.login.label": "Anmelden",
     "app.component.app.rooms.label": "Räume",
