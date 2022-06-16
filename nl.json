@@ -172,7 +172,7 @@
     "app.component.app.no-user.label": "Geen gebruiker",
 
     "app.component.users.header.label": "Gebruiker",
-    "app.component.users.empty-list.label": "Geen gebruiker beschikt",
+    "app.component.users.empty-list.label": "Geen gebruiker beschikbaar",
 
     "app.component.rooms.header.label": "Kamers",
     "app.component.rooms.empty-list.label": "Geen kamers beschikbaar",
