@@ -80,6 +80,7 @@
     "app.component.group-add.type.label": "Type",
     "app.component.group-add.type[relay].label": "Schakelaar",
     "app.component.group-add.type[roller].label": "Functie",
+    "app.component.group-add.type[thermostat].label": "Thermostat",
     "app.component.group-add.type[light].label": "Licht",
     "app.component.group-add.type[custom].label": "Aangepast",
     "app.component.group-add.devices.label": "Apparaten",
