@@ -80,6 +80,7 @@
     "app.component.group-add.type.label": "Typ",
     "app.component.group-add.type[relay].label": "Schalter",
     "app.component.group-add.type[roller].label": "Rolladen",
+    "app.component.group-add.type[thermostat].label": "Thermostat",
     "app.component.group-add.type[light].label": "Licht",
     "app.component.group-add.type[custom].label": "Custom",
     "app.component.group-add.devices.label": "Geräte",
