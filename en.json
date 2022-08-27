@@ -225,5 +225,7 @@
     "app.http-service.connecting-cloud.label": "Connecting device to cloud...",
 
     "app.donate-service.donate-success.label": "Donation send successfully. Thank you for your support!",
-    "app.donate-service.donate-error.label": "An unkown error occured!"
+    "app.donate-service.donate-error.label": "An unkown error occured!",
+
+    "app.device-info-service.unkown-device.label": "Unknown device '{{type}}' recognized, please contact me via mail"
 }
