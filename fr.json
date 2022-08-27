@@ -25,7 +25,7 @@
     "app.component.dashboard.empty-list.label": "Veuillez ajouter un tableau de bord",
 
     "app.component.more.donate.label": "Faire un don",
-    "app.component.more.system-teme.label": "Thème du système",
+    "app.component.more.system-theme.label": "Thème du système",
     "app.component.more.dark-theme.label": "Thème sombre",
     "app.component.more.light-theme.label": "Thème clair",
     "app.component.more.add-devices.label" : "Ajouter des périphériques",
