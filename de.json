@@ -227,5 +227,8 @@
     "app.http-service.connecting-cloud.label": "Verbinde Gerät mit der Cloud...",
 
     "app.donate-service.donate-success.label": "Spende erfolgreich abgeschickt. Vielen Dank!",
-    "app.donate-service.donate-error.label": "Ein unbekannter Fehler ist aufgetreten!"
+    "app.donate-service.donate-error.label": "Ein unbekannter Fehler ist aufgetreten!",
+
+    "app.device-info-service.unkown-device.label": "Unbekanntes Gerät '{{type}}' erkannt, bitte kontaktieren Sie mich via Mail"
+
 }

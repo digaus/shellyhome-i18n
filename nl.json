@@ -225,5 +225,8 @@
     "app.http-service.connecting-cloud.label": "Apparaat met cloud verbinden...",
 
     "app.donate-service.donate-success.label": "Donatie succesvol verzonden. Dank u voor uw bijdrage!",
-    "app.donate-service.donate-error.label": "Er heeft een onbekende fout plaatsgevonden!"
+    "app.donate-service.donate-error.label": "Er heeft een onbekende fout plaatsgevonden!",
+
+    "app.device-info-service.unkown-device.label": "Onbekend apparaat '{{type}}' herkend, neem contact met mij op via e-mail"
+
 }

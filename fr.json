@@ -226,5 +226,8 @@
     "app.http-service.connecting-cloud.label": "Connexion du périphérique au cloud..",
 
     "app.donate-service.donate-success.label": "Don envoyé avec succès. Merci pour votre soutien !",
-    "app.donate-service.donate-error.label": "Une erreur inconnue s'est produite !"
+    "app.donate-service.donate-error.label": "Une erreur inconnue s'est produite !",
+
+    "app.device-info-service.unkown-device.label": "Périphérique inconnu '{{type}}' reconnu, veuillez me contacter par e-mail"
+
 }
