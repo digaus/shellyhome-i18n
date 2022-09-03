@@ -1,6 +1,7 @@
 # Shelly Home
 
 Releases: https://github.com/digaus/shellyhome-i18n/releases
+
 Website: https://digaus.github.io/
 
 <b>Shelly Home</b> is a cross platform app created by the software developer <b>Dirk Gausmann</b>. It is developed in his free time and aims to bring a better user experience to <b>Shelly</b> users
