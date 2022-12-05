@@ -443,7 +443,7 @@ export const DeviceTypes: {
     //gen2
     undefined: {
         name: 'ShellyPlusOldFirmware',
-        friendly_name: 'Unkown',
+        friendly_name: 'Unknown',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
