@@ -441,6 +441,14 @@ export const DeviceTypes: {
         default_icon: 'motion.png',
     },
     //gen2
+    undefined: {
+        name: 'ShellyPlusOldFirmware',
+        friendly_name: 'Unkown',
+        family: 'relay',
+        modes: ['relay'],
+        channels: 1,
+        default_icon: 'relay.png',
+    },
     'SNSW-001X16EU': {
         name: 'ShellyPlus1',
         friendly_name: 'Plus 1',
