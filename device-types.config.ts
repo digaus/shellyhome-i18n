@@ -484,6 +484,15 @@ export const DeviceTypes: {
         meters: 1,
         default_icon: 'relay.png',
     },
+    'SNPL-00112EU': {
+        name: 'ShellyPlusPlugS',
+        friendly_name: 'Plus Plug S',
+        family: 'relay',
+        modes: ['relay'],
+        channels: 1,
+        meters: 1,
+        default_icon: 'relay.png',
+    },
     'SNSW-002X16EU': {
         name: 'ShellyPlus2',
         friendly_name: 'Plus 2',
