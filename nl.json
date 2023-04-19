@@ -115,6 +115,7 @@
     "app.component.customize-graph.graph-type[consumption3].label": "Fase 3",
     "app.component.customize-graph.steps.label": "Stappen",
     "app.component.customize-graph.beginAtZero.label": "Nullijn",
+    "app.component.customize-graph.compact.label": "Compact",
 
     "app.model.mode[relay].label": "Schakelaar",
     "app.model.mode[roller].label": "Functie",

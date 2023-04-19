@@ -115,6 +115,7 @@
     "app.component.customize-graph.graph-type[consumption3].label": "Phase 3",
     "app.component.customize-graph.steps.label": "Steps",
     "app.component.customize-graph.beginAtZero.label": "Zero line",
+    "app.component.customize-graph.compact.label": "Compact",
 
     "app.model.mode[relay].label": "Switch",
     "app.model.mode[roller].label": "Roller",
@@ -137,7 +138,7 @@
     "app.alert-service.login.label": "Login",
     "app.alert-service.e-mail.label": "E-Mail",
     "app.alert-service.password.label": "Password",
-    "app.alert-service.add-device-ssid.label": "Add device",
+    "app.alert-service.add-device-ssid.label": "Add device to wifi",
     "app.alert-service.device-ssid.label": "SSID",
     "app.alert-service.unlock.label": "Unlock {{ssid}}",
     "app.alert-service.username.label": "Username",
