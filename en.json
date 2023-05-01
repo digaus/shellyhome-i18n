@@ -6,7 +6,7 @@
     "app.component.welcome.creation.label": "Who created Shelly Home?",
     "app.component.welcome.creation-text.label": "<b>Shelly Home</b> is a cross platform app created by the software developer <b>Dirk Gausmann</b>. It is developed in his free time and aims to bring a better user experience to <b>Shelly</b> users.",
     "app.component.welcome.features.label": "What can Shelly Home do?",
-    "app.component.welcome.features-text.label": "<b>Shelly Home</b> is available on <b>Android, iOS, MacOS</b> and <b>Windows</b>. You can add, manage, update and control your <b>Shelly</b> devices aswell as highly customize how and what information you want to see.<br/>The app also does work without a user account and can directly access the <b>Shelly</b> devices located in the same network. Optionally the user can connect to its <b>Shelly Cloud</b> account, to be able to control the devices from anywhere.",
+    "app.component.welcome.features-text.label": "<b>Shelly Home</b> is available on <b>Smartphones, MacOS</b> and <b>Windows</b>. You can add, manage, update and control your <b>Shelly</b> devices aswell as highly customize how and what information you want to see.<br/>The app also does work without a user account and can directly access the <b>Shelly</b> devices located in the same network. Optionally the user can connect to its <b>Shelly Cloud</b> account, to be able to control the devices from anywhere.",
     "app.component.welcome.start.label": "Ready to start?",
     "app.component.welcome.start-text.label": "Use <b>Shelly Home</b> with or without a <b>Shelly Cloud</b> account",
     "app.component.welcome.skip-login.label": "Skip login",
