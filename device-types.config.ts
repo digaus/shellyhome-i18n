@@ -790,7 +790,7 @@ export const DeviceTypes: {
         channels: 1,
         default_icon: 'relay.png',
     },
-    'SNSW-001P8E': {
+    'SNSW-001P8EU': {
         name: 'Shelly1PMMini',
         friendly_name: '1PM Mini',
         family: 'relay',
