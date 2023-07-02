@@ -781,7 +781,33 @@ export const DeviceTypes: {
         channels: 1,
         emeters: 3,
         default_icon: 'relay.png',
-    }
+    },
+    'SNSW-001X8EU': {
+        name: 'Shelly1Mini',
+        friendly_name: '1 Mini',
+        family: 'relay',
+        modes: ['relay'],
+        channels: 1,
+        default_icon: 'relay.png',
+    },
+    'SNSW-001P8E': {
+        name: 'Shelly1PMMini',
+        friendly_name: '1PM Mini',
+        family: 'relay',
+        modes: ['relay'],
+        channels: 1,
+        meters: 1,
+        default_icon: 'relay.png',
+    },
+    'SNPM-001PCEU16': {
+        name: 'ShellyPMMini',
+        friendly_name: 'PM mini',
+        family: 'emeter',
+        modes: ['emeter'],
+        channels: 1,
+        emeters: 1,
+        default_icon: 'relay.png',
+    },
     // New Devices??
     /* 'IR_REM-0': {
          name: 'Remote',
