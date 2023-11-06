@@ -511,7 +511,7 @@ export const DeviceTypes: {
         meters: 2,
         rollers: 1,
         default_icon: 'relay.png',
-    },
+    }, 
     'SHPSW04P': {
         name: 'ShellyPro4PM',
         friendly_name: '4Pro',
@@ -619,6 +619,16 @@ export const DeviceTypes: {
         default_icon: 'relay.png',
     },
     'SPSW-202PE16EU': {
+        name: 'ShellyPro2PM',
+        friendly_name: 'Pro 2 PM',
+        family: 'relay',
+        modes: ['relay', 'roller'],
+        channels: 2,
+        meters: 2,
+        rollers: 1,
+        default_icon: 'relay.png',
+    },
+    'SPSW-202PE12UL': {
         name: 'ShellyPro2PM',
         friendly_name: 'Pro 2 PM',
         family: 'relay',
