@@ -810,6 +810,14 @@ export const DeviceTypes: {
         default_icon: 'relay.png',
     },
     'SNPM-001PCEU16': {
+        name: 'ShellyWallDisplay',
+        friendly_name: 'Wall Display',
+        family: 'relay',
+        modes: ['relay'],
+        channels: 1,
+        default_icon: 'relay.png',
+    },
+    'SAWD-0A1XX10EU1': {
         name: 'ShellyPMMini',
         friendly_name: 'PM mini',
         family: 'emeter',
