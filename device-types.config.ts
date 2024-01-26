@@ -837,7 +837,7 @@ export const DeviceTypes: {
         default_icon: 'relay.png',
     },
     'S3SW-001X8EU': {
-        name: 'Shelly1Mini',
+        name: 'Shelly1MiniG3',
         friendly_name: '1 Mini',
         family: 'relay',
         modes: ['relay'],
@@ -845,7 +845,7 @@ export const DeviceTypes: {
         default_icon: 'relay.png',
     },
     'S3SW-001P8EU': {
-        name: 'Shelly1PMMini',
+        name: 'Shelly1PMMiniG3',
         friendly_name: '1PM Mini',
         family: 'relay',
         modes: ['relay'],
@@ -854,7 +854,7 @@ export const DeviceTypes: {
         default_icon: 'relay.png',
     },
     'S3PM-001PCEU16': {
-        name: 'ShellyPMMini',
+        name: 'ShellyPMMiniG3',
         friendly_name: 'PM mini',
         family: 'emeter',
         modes: ['emeter'],
