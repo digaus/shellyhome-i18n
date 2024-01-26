@@ -511,7 +511,7 @@ export const DeviceTypes: {
         meters: 2,
         rollers: 1,
         default_icon: 'relay.png',
-    }, 
+    },
     'SHPSW04P': {
         name: 'ShellyPro4PM',
         friendly_name: '4Pro',
@@ -810,6 +810,15 @@ export const DeviceTypes: {
         default_icon: 'relay.png',
     },
     'SNPM-001PCEU16': {
+        name: 'ShellyPMMini',
+        friendly_name: 'PM mini',
+        family: 'emeter',
+        modes: ['emeter'],
+        channels: 1,
+        emeters: 1,
+        default_icon: 'relay.png',
+    },
+    'SAWD-0A1XX10EU1': {
         name: 'ShellyWallDisplay',
         friendly_name: 'Wall Display',
         family: 'relay',
@@ -817,7 +826,34 @@ export const DeviceTypes: {
         channels: 1,
         default_icon: 'relay.png',
     },
-    'SAWD-0A1XX10EU1': {
+
+    //Gen 3
+    'S3SN-0U12A': {
+        name: 'ShellyHTG3',
+        friendly_name: 'H&T G3',
+        family: 'sensor',
+        modes: ['sensor'],
+        channels: 1,
+        default_icon: 'relay.png',
+    },
+    'S3SW-001X8EU': {
+        name: 'Shelly1Mini',
+        friendly_name: '1 Mini',
+        family: 'relay',
+        modes: ['relay'],
+        channels: 1,
+        default_icon: 'relay.png',
+    },
+    'S3SW-001P8EU': {
+        name: 'Shelly1PMMini',
+        friendly_name: '1PM Mini',
+        family: 'relay',
+        modes: ['relay'],
+        channels: 1,
+        meters: 1,
+        default_icon: 'relay.png',
+    },
+    'S3PM-001PCEU16': {
         name: 'ShellyPMMini',
         friendly_name: 'PM mini',
         family: 'emeter',
