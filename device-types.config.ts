@@ -792,6 +792,15 @@ export const DeviceTypes: {
         emeters: 3,
         default_icon: 'relay.png',
     },
+    'SPEM-002CEBEU50': {
+        name: 'ShellyProEM50',
+        friendly_name: 'Pro EM 50',      
+        family: 'emeter',
+        modes: ['emeter'],
+        channels: 1,
+        emeters: 2,
+        default_icon: 'relay.png',
+    },
     'SNSW-001X8EU': {
         name: 'Shelly1Mini',
         friendly_name: '1 Mini',
