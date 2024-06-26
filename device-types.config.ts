@@ -523,7 +523,7 @@ export const DeviceTypes: {
     },
     'SPSW-004PE16EU': {
         name: 'ShellyPro4PM',
-        friendly_name: 'Pro 4 PM',
+        friendly_name: ' Pro 4 PM',
         family: 'relay',
         modes: ['relay'],
         channels: 4,
@@ -532,7 +532,7 @@ export const DeviceTypes: {
     },
     'SPSW-104PE16EU': {
         name: 'ShellyPro4PM',
-        friendly_name: 'Pro 4 PM',
+        friendly_name: ' Pro 4 PM',
         family: 'relay',
         modes: ['relay'],
         channels: 4,
@@ -541,7 +541,7 @@ export const DeviceTypes: {
     },
     'SPSW-001PE16EU': {
         name: 'ShellyPro1PM',
-        friendly_name: 'Pro 1 PM',
+        friendly_name: ' Pro 1 PM',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -550,7 +550,7 @@ export const DeviceTypes: {
     },
     'SPSW-101PE16EU': {
         name: 'ShellyPro1PM',
-        friendly_name: 'Pro 1 PM',
+        friendly_name: ' Pro 1 PM',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -559,7 +559,7 @@ export const DeviceTypes: {
     },
     'SPSW-201PE16EU': {
         name: 'ShellyPro1PM',
-        friendly_name: 'Pro 1 PM',
+        friendly_name: ' Pro 1 PM',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -568,7 +568,7 @@ export const DeviceTypes: {
     },
     'SPSW-001XE16EU': {
         name: 'ShellyPro1',
-        friendly_name: 'Pro 1',
+        friendly_name: ' Pro 1',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -576,7 +576,7 @@ export const DeviceTypes: {
     },
     'SPSW-101XE16EU': {
         name: 'ShellyPro1',
-        friendly_name: 'Pro 1',
+        friendly_name: ' Pro 1',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -584,7 +584,7 @@ export const DeviceTypes: {
     },
     'SPSW-201XE16EU': {
         name: 'ShellyPro1',
-        friendly_name: 'Pro 1',
+        friendly_name: ' Pro 1',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -600,7 +600,7 @@ export const DeviceTypes: {
     },
     'SPSW-002PE16EU': {
         name: 'ShellyPro2PM',
-        friendly_name: 'Pro 2 PM',
+        friendly_name: ' Pro 2 PM',
         family: 'relay',
         modes: ['relay', 'roller'],
         channels: 2,
@@ -610,7 +610,7 @@ export const DeviceTypes: {
     },
     'SPSW-102PE16EU': {
         name: 'ShellyPro2PM',
-        friendly_name: 'Pro 2 PM',
+        friendly_name: ' Pro 2 PM',
         family: 'relay',
         modes: ['relay', 'roller'],
         channels: 2,
@@ -620,7 +620,7 @@ export const DeviceTypes: {
     },
     'SPSW-202PE16EU': {
         name: 'ShellyPro2PM',
-        friendly_name: 'Pro 2 PM',
+        friendly_name: ' Pro 2 PM',
         family: 'relay',
         modes: ['relay', 'roller'],
         channels: 2,
@@ -630,7 +630,7 @@ export const DeviceTypes: {
     },
     'SPSW-202PE12UL': {
         name: 'ShellyPro2PM',
-        friendly_name: 'Pro 2 PM',
+        friendly_name: ' Pro 2 PM',
         family: 'relay',
         modes: ['relay', 'roller'],
         channels: 2,
@@ -640,7 +640,7 @@ export const DeviceTypes: {
     },
     'SPSW-002XE16EU': {
         name: 'ShellyPro2',
-        friendly_name: 'Pro 2',
+        friendly_name: ' Pro 2',
         family: 'relay',
         modes: ['relay'],
         channels: 2,
@@ -648,7 +648,7 @@ export const DeviceTypes: {
     },
     'SPSW-102XE16EU': {
         name: 'ShellyPro2',
-        friendly_name: 'Pro 2',
+        friendly_name: ' Pro 2',
         family: 'relay',
         modes: ['relay'],
         channels: 2,
@@ -656,7 +656,7 @@ export const DeviceTypes: {
     },
     'SPSW-202XE16EU': {
         name: 'ShellyPro2',
-        friendly_name: 'Pro 2',
+        friendly_name: ' Pro 2',
         family: 'relay',
         modes: ['relay'],
         channels: 2,
@@ -664,7 +664,7 @@ export const DeviceTypes: {
     },
     'SPSW-003XE16EU': {
         name: 'ShellyPro3',
-        friendly_name: 'Pro 3',
+        friendly_name: ' Pro 3',
         family: 'relay',
         modes: ['relay'],
         channels: 3,
@@ -785,7 +785,7 @@ export const DeviceTypes: {
     },
     'SPEM-003CEBEU': {
         name: 'ShellyPro3EM',
-        friendly_name: 'Pro 3EM',      
+        friendly_name: ' Pro 3EM',      
         family: 'emeter',
         modes: ['triphase', 'monophase'],
         channels: 1,
@@ -794,7 +794,7 @@ export const DeviceTypes: {
     },
     'SPEM-002CEBEU50': {
         name: 'ShellyProEM50',
-        friendly_name: 'Pro EM 50',      
+        friendly_name: ' Pro EM 50',      
         family: 'emeter',
         modes: ['emeter'],
         channels: 1,
