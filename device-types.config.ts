@@ -451,7 +451,7 @@ export const DeviceTypes: {
     },
     'SNSW-001X16EU': {
         name: 'ShellyPlus1',
-        friendly_name: 'Plus 1',
+        friendly_name: ' Plus 1',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -460,7 +460,7 @@ export const DeviceTypes: {
     
     'SNSW-001X15UL': {
         name: 'ShellyPlus1',
-        friendly_name: 'Plus 1',
+        friendly_name: ' Plus 1',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -468,7 +468,7 @@ export const DeviceTypes: {
     },
     'SNSW-001P16EU': {
         name: 'ShellyPlus1PM',
-        friendly_name: 'Plus 1 PM',
+        friendly_name: ' Plus 1 PM',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -477,7 +477,7 @@ export const DeviceTypes: {
     },
     'SNSW-001P15UL': {
         name: 'ShellyPlus1PM',
-        friendly_name: 'Plus 1 PM',
+        friendly_name: ' Plus 1 PM',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -486,7 +486,7 @@ export const DeviceTypes: {
     },
     'SNSW-002X16EU': {
         name: 'ShellyPlus2',
-        friendly_name: 'Plus 2',
+        friendly_name: ' Plus 2',
         family: 'relay',
         modes: ['relay'],
         channels: 2,
@@ -494,7 +494,7 @@ export const DeviceTypes: {
     },
     'SNSW-002P16EU': {
         name: 'ShellyPlus2PM',
-        friendly_name: 'Plus 2 PM',
+        friendly_name: ' Plus 2 PM',
         family: 'relay',
         modes: ['relay', 'roller'],
         channels: 2,
@@ -504,7 +504,7 @@ export const DeviceTypes: {
     },
     'SNSW-102P16EU': {
         name: 'ShellyPlus2PM',
-        friendly_name: 'Plus 2 PM',
+        friendly_name: ' Plus 2 PM',
         family: 'relay',
         modes: ['relay', 'roller'],
         channels: 2,
@@ -592,7 +592,7 @@ export const DeviceTypes: {
     },
     'SNSL-0A1X03WWL': {
         name: 'ShellyPlus1L',
-        friendly_name: 'Plus 1L',
+        friendly_name: ' Plus 1L',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -672,7 +672,7 @@ export const DeviceTypes: {
     },
     'SNSN-0024X': {
         name: 'ShellyPlusI4',
-        friendly_name: 'Plus I4',
+        friendly_name: ' Plus I4',
         family: 'inputs_reader',
         modes: ['inputs_reader'],
         channels: 4,
@@ -680,7 +680,7 @@ export const DeviceTypes: {
     },
     'SNSN-0D24X': {
         name: 'ShellyPlusI4',
-        friendly_name: 'Plus I4 DC',
+        friendly_name: ' Plus I4 DC',
         family: 'inputs_reader',
         modes: ['inputs_reader'],
         channels: 4,
@@ -688,7 +688,7 @@ export const DeviceTypes: {
     },
     'SNPL-00116US': {
         name: 'ShellyPlugUS',
-        friendly_name: 'Plus Plug US',
+        friendly_name: ' Plus Plug US',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -697,7 +697,7 @@ export const DeviceTypes: {
     },
     'SNPL-00116IT': {
         name: 'ShellyPlugIT',
-        friendly_name: 'Plus Plug IT 16A',
+        friendly_name: ' Plus Plug IT 16A',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -706,7 +706,7 @@ export const DeviceTypes: {
     },
     'SNPL-00110IT': {
         name: 'ShellyPlugIT',
-        friendly_name: 'Plus Plug IT 10A',
+        friendly_name: ' Plus Plug IT 10A',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -715,7 +715,7 @@ export const DeviceTypes: {
     },
     'SNPL-00110EU': {
         name: 'ShellyPlusPlugS',
-        friendly_name: 'Plus Plug S',
+        friendly_name: ' Plus Plug S',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -724,7 +724,7 @@ export const DeviceTypes: {
     },
     'SNPL-00210EU': {
         name: 'ShellyPlusPlugS',
-        friendly_name: 'Plus Plug S',
+        friendly_name: ' Plus Plug S',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -733,7 +733,7 @@ export const DeviceTypes: {
     },
     'SNPL-00112EU': {
         name: 'ShellyPlusPlugS',
-        friendly_name: 'Plus Plug S',
+        friendly_name: ' Plus Plug S',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -742,7 +742,7 @@ export const DeviceTypes: {
     },
     'SNPL-00112UK': {
         name: 'ShellyPlusPlugUK',
-        friendly_name: 'Plus Plug UK',
+        friendly_name: ' Plus Plug UK',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -751,7 +751,7 @@ export const DeviceTypes: {
     },
     'SNDM-0013US': {
         name: 'ShellyPlusWDUS',
-        friendly_name: 'Plus Wall Dimmer',
+        friendly_name: ' Plus Wall Dimmer',
         family: 'light',
         modes: [],
         channels: 1,
@@ -760,7 +760,7 @@ export const DeviceTypes: {
     },
     'SNDM-9995WW': {
         name: 'ShellyPlusDimmer',
-        friendly_name: 'Plus Dimmer',
+        friendly_name: ' Plus Dimmer',
         family: 'light',
         modes: [],
         channels: 1,
@@ -769,7 +769,7 @@ export const DeviceTypes: {
     },
     'SNSN-0013A': {
         name: 'ShellyPlusHT',
-        friendly_name: 'Plus H&T',
+        friendly_name: ' Plus H&T',
         family: 'sensor',
         modes: ['sensor'],
         channels: 1,
@@ -777,7 +777,7 @@ export const DeviceTypes: {
     },
     'SNSN-0031Z': {
         name: 'ShellyPlusSmoke',
-        friendly_name: 'Plus Smoke',
+        friendly_name: ' Plus Smoke',
         family: 'sensor',
         modes: ['sensor'],
         channels: 1,
@@ -803,7 +803,7 @@ export const DeviceTypes: {
     },
     'SNSW-001X8EU': {
         name: 'Shelly1Mini',
-        friendly_name: '1 Mini',
+        friendly_name: '1 Mini ',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -811,7 +811,7 @@ export const DeviceTypes: {
     },
     'SNSW-001P8EU': {
         name: 'Shelly1PMMini',
-        friendly_name: '1PM Mini',
+        friendly_name: '1PM Mini ',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -820,7 +820,7 @@ export const DeviceTypes: {
     },
     'SNPM-001PCEU16': {
         name: 'ShellyPMMini',
-        friendly_name: 'PM mini',
+        friendly_name: 'PM Mini ',
         family: 'emeter',
         modes: ['emeter'],
         channels: 1,
@@ -847,7 +847,7 @@ export const DeviceTypes: {
     },
     'S3SW-001X8EU': {
         name: 'Shelly1MiniG3',
-        friendly_name: '1 Mini',
+        friendly_name: '1 Mini ',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -855,7 +855,7 @@ export const DeviceTypes: {
     },
     'S3SW-001P8EU': {
         name: 'Shelly1PMMiniG3',
-        friendly_name: '1PM Mini',
+        friendly_name: '1PM Mini ',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -864,7 +864,7 @@ export const DeviceTypes: {
     },
     'S3PM-001PCEU16': {
         name: 'ShellyPMMiniG3',
-        friendly_name: 'PM mini',
+        friendly_name: 'PM Mini ',
         family: 'emeter',
         modes: ['emeter'],
         channels: 1,
