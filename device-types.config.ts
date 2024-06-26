@@ -802,16 +802,16 @@ export const DeviceTypes: {
         default_icon: 'relay.png',
     },
     'SNSW-001X8EU': {
-        name: 'Shelly1Mini',
-        friendly_name: '1 Mini ',
+        name: 'Shelly1Mini ',
+        friendly_name: '1 Mini',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
         default_icon: 'relay.png',
     },
     'SNSW-001P8EU': {
-        name: 'Shelly1PMMini',
-        friendly_name: '1PM Mini ',
+        name: 'Shelly1PMMini ',
+        friendly_name: '1PM Mini',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -819,8 +819,8 @@ export const DeviceTypes: {
         default_icon: 'relay.png',
     },
     'SNPM-001PCEU16': {
-        name: 'ShellyPMMini',
-        friendly_name: 'PM Mini ',
+        name: 'ShellyPMMini ',
+        friendly_name: 'PM Mini',
         family: 'emeter',
         modes: ['emeter'],
         channels: 1,
@@ -847,7 +847,7 @@ export const DeviceTypes: {
     },
     'S3SW-001X8EU': {
         name: 'Shelly1MiniG3',
-        friendly_name: '1 Mini ',
+        friendly_name: '1 Mini',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -855,7 +855,7 @@ export const DeviceTypes: {
     },
     'S3SW-001P8EU': {
         name: 'Shelly1PMMiniG3',
-        friendly_name: '1PM Mini ',
+        friendly_name: '1PM Mini',
         family: 'relay',
         modes: ['relay'],
         channels: 1,
@@ -864,7 +864,7 @@ export const DeviceTypes: {
     },
     'S3PM-001PCEU16': {
         name: 'ShellyPMMiniG3',
-        friendly_name: 'PM Mini ',
+        friendly_name: 'PM Mini',
         family: 'emeter',
         modes: ['emeter'],
         channels: 1,
