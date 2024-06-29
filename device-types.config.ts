@@ -871,6 +871,14 @@ export const DeviceTypes: {
         emeters: 1,
         default_icon: 'relay.png',
     },
+    'SNSN-0043X': {
+        name: 'ShellyPlusUni',
+        friendly_name: 'Plus Uni',
+        family: 'relay',
+        modes: ['relay'],
+        channels: 1,
+        default_icon: 'relay.png',
+    },
     // New Devices??
     /* 'IR_REM-0': {
          name: 'Remote',
