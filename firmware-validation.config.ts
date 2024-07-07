@@ -1,11 +1,12 @@
 export const FirmwareValidation: {
     [key: string]: {
-        current: string;
-        target: string;
+        [key: string]: string;
     };
 } = {
     '2': {
-        current: '1.3.3',
-        target: '1.4.0',
+        '1.4.0': '1.3.3',
+    },
+    '3': {
+        '1.4.0': '1.3.3',
     }
 }
