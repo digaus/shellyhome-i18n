@@ -787,7 +787,7 @@ export const DeviceTypes: {
         name: 'ShellyPro3EM',
         friendly_name: ' Pro 3EM',      
         family: 'emeter',
-        modes: ['triphase', 'monophase'],
+        modes: ['emeter'],
         channels: 1,
         emeters: 3,
         default_icon: 'relay.png',
