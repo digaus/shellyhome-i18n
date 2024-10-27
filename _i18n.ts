@@ -3,4 +3,5 @@ export const i18n: string[] = [
     'de',
     'fr',
     'nl',
+    'it',
 ];
